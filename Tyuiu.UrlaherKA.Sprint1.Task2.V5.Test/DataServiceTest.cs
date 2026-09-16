@@ -10,7 +10,7 @@ namespace Tyuiu.UrlaherKA.Sprint1.Task2.V5.Test
         {
             int x = 5;
             int Square = ds.CalculateSideSquare(x);
-            Assert.AreEqual(25, Square);
+            Assert.AreEqual(150, Square);
         }
     }
 }

@@ -14,4 +14,5 @@
     <Project Path="Tyuiu.UrlaherKA.Sprint1.Task2.V5.Test/Tyuiu.UrlaherKA.Sprint1.Task2.V5.Test.csproj" Id="a7fa4966-dd04-4059-afe8-1e6babef7a54" />
     <Project Path="Tyuiu.UrlaherKA.Sprint1.Task2.V5/Tyuiu.UrlaherKA.Sprint1.Task2.V5.csproj" Id="ecf27d21-58ea-49e1-b233-770059af6cfa" />
   </Folder>
+  <Folder Name="/Task3/" />
 </Solution>

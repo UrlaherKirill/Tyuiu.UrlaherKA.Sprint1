@@ -5,7 +5,7 @@ namespace Tyuiu.UrlaherKA.Sprint1.Task2.V5.Lib
     {
         public int CalculateSideSquare(int value)
         {
-            return value * value;
+            return 6 * (value * value);
         }
     }
 }
