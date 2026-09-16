@@ -5,7 +5,7 @@ namespace Tyuiu.UrlaherKA.Sprint1.Task3.V7.Lib
     {
         public double VerstsToKilometers(double verst)
         {
-            return (verst * 1066.8) / 1000;
+            return Math.Round(((verst * 1066.8) / 1000),3);
         }
     }
 }

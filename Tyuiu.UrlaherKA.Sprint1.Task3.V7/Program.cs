@@ -33,7 +33,7 @@ namespace Tyuiu.UrlaherKA.Sprint1.Task3.V7
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine($"{x} вёрст - это {res:F3} км.");
+            Console.WriteLine($"{x} вёрст - это {res} км.");
             Console.ReadKey();
 
 
